@@ -1,0 +1,19 @@
+{
+  "name": "@modretro/chromatic-cli-darwin-arm64",
+  "version": "1.2.1",
+  "description": "Command-line tools for ModRetro Chromatic devices",
+  "license": "UNLICENSED",
+  "publishConfig": {
+    "access": "public"
+  },
+  "os": [
+    "darwin"
+  ],
+  "cpu": [
+    "arm64"
+  ],
+  "files": [
+    "bin",
+    "THIRD_PARTY_NOTICES.txt"
+  ]
+}

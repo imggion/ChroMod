@@ -1,0 +1,12 @@
+{
+  "source_sha256": "37257304b250634c586b0061e6f75dc1bec6ebaa57da1b9937106fa1fd370c70",
+  "offset": "0x2b780",
+  "original_hex": "c0050054",
+  "replacement_hex": "1f2003d5",
+  "original_instruction": "b.eq #0x10002b838",
+  "replacement_instruction": "nop",
+  "evidence": "SHA-1 digest (20 bytes) is computed then binary-searched in known-IP list. This branch alone enters error tag 11 (rom.released_title_denied).",
+  "failed_candidate_restored": "0x30f90 restored from original binary",
+  "status": "validated: Player 2 test reaches device.player_not_found; Player 1 writing succeeds; original tool reads POKEMON BLUE header afterward",
+  "patched_binary_sha256": "c33a0842424d78f6a6b59a7c16e670fa20b44292931a056779bd9e6802cd2372"
+}

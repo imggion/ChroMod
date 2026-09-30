@@ -1,0 +1,19 @@
+{
+  "operation": "write-homebrew",
+  "ok": true,
+  "elapsedMs": 70481,
+  "player": 1,
+  "rom": "Pokemon Blue Version (USA) (SGB Enhanced).gb",
+  "romSha256": "2a951313c2640e8c2cb21f25d1db019ae6245d9c7121f754fa61afd7bee6452d",
+  "post_write_read_with_original_tool": {
+    "title": "POKEMON BLUE",
+    "header_checksum": "valid",
+    "rom_size_bytes": 1048576,
+    "ram_size_bytes": 32768,
+    "flash_make": "ISSI",
+    "flash_model": "IS29GL032-70TLET-TR",
+    "flash_capacity_bytes": 4194304
+  },
+  "reset_device_ok": true,
+  "gameplay_and_save_persistence": "not yet tested on physical screen"
+}

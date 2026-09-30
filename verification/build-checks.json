@@ -1,0 +1,9 @@
+{
+  "build_succeeds": true,
+  "built_and_existing_binary_help": true,
+  "code_signatures_valid": true,
+  "unexpected_source_rejected": true,
+  "original_overwrite_rejected": true,
+  "original_hash_unchanged": true,
+  "hardware_accessed": false
+}

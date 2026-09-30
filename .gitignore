@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+build/
+bin/
+vendor/chromatic-cli-1.2.1-macos-arm64
