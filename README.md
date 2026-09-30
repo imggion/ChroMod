@@ -1,5 +1,7 @@
 <h1 align="center">ChroMod</h1>
 
+<p align="center"><em>Flash everything</em></p>
+
 <p align="center">
   <img src="assets/chromod-result-video.gif" alt="ChroMod flashing result on a ModRetro Chromatic" width="480">
 </p>
