@@ -1,4 +1,8 @@
-# ChroMod
+<h1 align="center">ChroMod</h1>
+
+<p align="center">
+  <img src="assets/chromod-result-video.gif" alt="ChroMod flashing result on a ModRetro Chromatic" width="480">
+</p>
 
 A small patch for ModRetro Chromatic CLI 1.2.1 on Apple Silicon Macs. It removes the `rom.released_title_denied` block so ROM writing can proceed.
 
